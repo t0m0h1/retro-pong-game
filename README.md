@@ -13,3 +13,6 @@ the idea is to use this as a base iteration for further pong projects, or indeed
 further iterations may include collision sounds, startup sounds, and events such as mini games or actions.
 
 remember, the game is based on a single player paddle and ball game, so there is not much scope for further development, but feel free to use this as you will!
+
+
+Currently set (in terms of scoring) as a "first to 2 wins".
